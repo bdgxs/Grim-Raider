@@ -1,0 +1,17 @@
+discord_webhook
+requests
+colorama
+plyer
+discord.py
+selenium
+beautifulsoup4
+Pillow
+PyAutoGUI
+pyperclip
+selenium
+aiohttp
+pypresence
+pyinstaller
+dhooks
+pystyle
+threading
